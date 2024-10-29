@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.Testing.TestCases.TC2_Post"/>
+      <class name="org.Testing.TestCases.TC1_Get"/>
+      <class name="org.Testing.TestCases.TC4_Delete"/>
+      <class name="org.Testing.TestCases.TC3_Put"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
